@@ -1,0 +1,5 @@
+		.container-xl {background-color: #ddd;}
+		.backcolor { background-color: #bbb; }
+		a:link { color:black; }
+		a:hover { background-color: orange; color:white; text-decoration: none; }
+		.active { background-color: orange; color:white; border: 1px dotted white; }
